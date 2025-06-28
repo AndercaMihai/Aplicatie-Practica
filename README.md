@@ -1,6 +1,6 @@
 # Automatizarea unui sistem de benzi transportoare folosind automate programabile Siemens și Factory I/O
 
-## Adresa repository-ului: https
+## Adresa repository-ului: [https](https://github.com/AndercaMihai/Aplicatie-Practica)
 
 ## Tehnologii folosite
 1. TIA Portal V15.1
